@@ -68,7 +68,7 @@ This project emphasizes **classification metrics** (precision/recall/F1/accuracy
   ```bash
   pip install pandas numpy matplotlib scikit-learn
   ```
-Ensure `train.xlsx` is in the same folder as the notebooks.
+Ensure `train.csv` is in the same folder as the notebooks.
 
 ---
 
